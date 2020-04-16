@@ -10,5 +10,3 @@ To run this project first clone this repo and if there is Django(1.10) installed
   > python manage.py runserver
 ```
 And the project will run in https://localhost:8000.
-
-(I would recommend using `virtualenv` or any virtual environment tools to run this project if django1.10 is not installed in your machine so that your machine will not be populated with the stuffs you don't need.)
