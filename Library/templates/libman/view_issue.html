@@ -3,7 +3,7 @@
 <title>{% block title %} View Issue {% endblock %}</title>
 {% block b_main %}
   <div>
-    <a href="{% url 'new_issue' %}">Issue New Book!</a>
+    <a href="{% url 'new_issue' %}" name="newIssue">Issue New Book!</a>
   </div>
   <div>
     <a href="{% url 'add_book' %}">Search Issue!</a>
