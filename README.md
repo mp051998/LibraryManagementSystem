@@ -1,6 +1,10 @@
-Library Management System.
+## Library Management System
 
-Backend Framwork used - Django 1.10.
+## Backend Framwork used
+```bash
+Django 1.10.
+```
 
+## Notes
 System Testing script added.
 
